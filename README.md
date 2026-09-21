@@ -11,3 +11,4 @@
 2. ติดตั้ง Library:
    ```bash
    pip install -r requirements.txt
+   Link https://ecommerce-customer-lifecycle-analytics-hpye6ra6ezzpmasyapr4om.streamlit.app/
