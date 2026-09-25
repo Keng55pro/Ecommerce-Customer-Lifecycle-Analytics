@@ -1,6 +1,7 @@
 # 🛒 E-Commerce Customer Analytics & Churn Prediction
 
-โครงสร้างโฟลเดอร์
+## โครงสร้างโฟลเดอร์
+```
 Ecommerce-analytics/
 ├── data/
 │   ├── raw/
@@ -14,6 +15,7 @@ Ecommerce-analytics/
 ├── app.py                           
 ├── requirements.txt                 
 └── README.md
+```
 
 - `data/` : เก็บข้อมูลดิบ (OnlineRetail.csv) และฐานข้อมูล SQLite (ecommerce.db)
 - `src/` : เก็บไฟล์โมเดล XGBoost (.pkl)
