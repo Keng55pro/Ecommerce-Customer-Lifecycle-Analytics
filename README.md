@@ -21,7 +21,7 @@ Ecommerce-analytics/
 - `src/` : เก็บไฟล์โมเดล XGBoost (.pkl)
 - `notebooks/` : Jupyter Notebook สำหรับประมวลผลข้อมูลและเทรนโมเดล
 - `app.py` : Streamlit Interactive Web Application
-
+ต้องมีข้อมูลชื่อ OnlineRetail.csv
 ## 🚀 วิธีเปิดใช้งาน
 1. วางไฟล์ `OnlineRetail.csv` ไว้ที่ `data/raw/`
 2. ติดตั้ง Library:
